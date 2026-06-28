@@ -1,4 +1,4 @@
-# 
+# Personalizado SQL Server Management Studio flujo de trabajo para Mac OS | VIP SQL Server Management Studio flujo de trabajo para PC Windows. Con atajos de teclado y gestor de proyectos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
